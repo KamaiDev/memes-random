@@ -1,7 +1,11 @@
-# Memes brasileiros em .json • By NotDev 💌
+# Semi API de memes 100% BRASILEIROS • By NotDev 💌
 
 Este """sistema""" foi criado para suprir a ausência de uma API de memes brasileiros.
 
+## NPMs IMPORTANTES PARA O FUNCIONAMENTO DO SISTEMA
+
+> ```BATCH
+> npm i discord.js fetch url
 
 ## Como usar
 
